@@ -1,0 +1,152 @@
+{
+  "channelId": "6b080bf28541f09ecbadbafa",
+  "organizationId": "6b080a8c3ea2b88126a38a54",
+  "schedulingType": "automatic",
+  "mode": "customScheduled",
+  "posts": [
+    {
+      "post": "L11",
+      "dueAt": "2026-12-18T16:00:00+01:00",
+      "text": "Combien vous coûte un client qui ne vous trouve pas ?\n\nPersonne ne peut vous donner ce chiffre à votre place. Mais vous pouvez l'estimer en deux minutes.\n\nPrenez ce que vous rapporte un client fidèle en un an. Multipliez par le nombre de clients que vous perdez chaque mois parce qu'ils ne vous trouvent pas, ou que votre site leur a donné une mauvaise impression. Multipliez par douze.\n\nExemple, avec des chiffres inventés : un client qui dépense 300 € par an, deux clients perdus par mois, cela fait 7 200 € sur l'année.\n\nVos chiffres seront différents. L'idée est de comparer ce montant au prix d'un site qui fait son travail, et qui reste à vous pendant des années.\n\nFaites le calcul avec vos propres chiffres. Si le résultat vous surprend, écrivez-nous.\n\n#Entrepreneurs #TPE",
+      "assets": [
+        {
+          "image": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L11.png",
+            "metadata": {
+              "altText": "Faites le calcul : estimer ce que coûte un client qui ne vous trouve pas en ligne."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "post": "L12",
+      "dueAt": "2027-01-04T16:00:00+01:00",
+      "text": "Avant qu'un site SITEO soit mis en ligne, il passe une série de vérifications. Les voici, sans jargon.\n\n• L'affichage sur plusieurs tailles d'écran, du petit téléphone au grand ordinateur, page par page.\n• Une relecture à l'œil, par une vraie personne. Les tests automatiques ne voient pas tout.\n• Les liens, les boutons d'appel et les formulaires, testés un par un.\n• Les mentions légales obligatoires.\n• L'adresse sécurisée, le petit cadenas dans le navigateur.\n• La déclaration du site auprès de Google, pour qu'il le découvre plus vite.\n\nCes étapes sont invisibles pour vos clients. Elles évitent les mauvaises surprises le jour de la mise en ligne.\n\nVotre site actuel passerait-il cette liste ? Si vous avez un doute, écrivez-nous.\n\n#Coulisses #QualiteWeb",
+      "assets": [
+        {
+          "document": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L12-carrousel.pdf",
+            "title": "Ce qu'on vérifie avant chaque mise en ligne",
+            "thumbnailUrl": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L12-1.png"
+          }
+        }
+      ]
+    },
+    {
+      "post": "L13",
+      "dueAt": "2027-01-06T16:00:00+01:00",
+      "text": "Un site présente votre activité. Certaines entreprises ont besoin d'aller plus loin : un outil fait pour leur façon de travailler.\n\nQuelques exemples de ce qu'on peut concevoir :\n• un système de réservation adapté à vos créneaux et à vos règles ;\n• un espace client pour suivre une commande ou un dossier ;\n• un outil interne pour remplacer le tableur que toute l'équipe partage ;\n• un formulaire qui prépare vos devis.\n\nCes outils s'appellent des applications web : ils s'ouvrent dans un navigateur, sur ordinateur comme sur téléphone, sans rien installer.\n\nOn commence toujours par la même question : quelle tâche vous fait perdre le plus de temps aujourd'hui ?\n\nSi vous avez une réponse, écrivez-nous. On regarde ensemble si un outil sur mesure a du sens, ou si une solution existante suffit.\n\n#ApplicationWeb #PME",
+      "assets": [
+        {
+          "image": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L13.png",
+            "metadata": {
+              "altText": "Plus qu'un site : un outil sur mesure pour votre activité."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "post": "L14",
+      "dueAt": "2027-01-08T16:00:00+01:00",
+      "text": "Vos clients satisfaits laissent rarement un avis d'eux-mêmes. Il faut le leur demander, et leur faciliter la tâche.\n\nQuatre façons simples de le faire :\n\n1. Au bon moment : quand le client vous remercie, plutôt que trois semaines plus tard.\n2. Avec le lien direct vers votre fiche, par message ou sur un QR code au comptoir.\n3. Avec des mots simples : « Si vous êtes content, un avis nous aide vraiment. »\n4. En répondant à chaque avis, les bons comme les moins bons. Vos futurs clients lisent aussi vos réponses.\n\nEt une règle sans exception : jamais de faux avis. C'est interdit, et c'est un vrai risque pour votre réputation.\n\nSur votre site, vos vrais avis peuvent ensuite être mis en avant, recopiés mot pour mot.\n\nGardez ce post sous le coude. Et si votre site ne montre pas encore vos avis, parlons-en.\n\n#AvisClients #CommerceLocal",
+      "assets": [
+        {
+          "document": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L14-carrousel.pdf",
+            "title": "Demander un avis Google, sans gêne",
+            "thumbnailUrl": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L14-1.png"
+          }
+        }
+      ]
+    },
+    {
+      "post": "L15",
+      "dueAt": "2027-01-11T16:00:00+01:00",
+      "text": "Une offre de saison, l'ouverture d'un deuxième établissement, un nouveau service à lancer : dans ces cas-là, une page dédiée fait mieux qu'un paragraphe perdu sur votre site.\n\nC'est ce qu'on appelle une landing page, ou page d'atterrissage : une page, un seul objectif. Réserver, demander un devis, s'inscrire.\n\nElle a trois avantages :\n• le message est clair, sans menu qui disperse l'attention ;\n• vous pouvez l'envoyer directement, par message, QR code ou publicité ;\n• vous voyez facilement si elle fonctionne, puisqu'elle ne sert qu'à une chose.\n\nNous concevons des landing pages sur mesure, seules ou en complément d'un site existant.\n\nUn lancement prévu cette année ? Parlez-nous-en tôt, pour avoir la page prête le jour J.\n\n#LandingPage #Lancement",
+      "assets": [
+        {
+          "image": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L15.png",
+            "metadata": {
+              "altText": "Une page, un objectif : maquette annotée d'une landing page sur téléphone."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "post": "L16",
+      "dueAt": "2027-01-13T16:00:00+01:00",
+      "text": "Une refonte réussie garde ce qui fonctionnait déjà. Trois choses à protéger avant de tout changer :\n\n1. Votre nom de domaine. C'est votre adresse, celle que vos clients et Google connaissent. On la garde dès que c'est possible.\n2. Les pages qui attirent des visiteurs. Si une ancienne page est bien placée sur Google, sa nouvelle version doit prendre le relais à la même adresse, ou une redirection propre doit y mener.\n3. Vos contenus qui marchent : les textes, les photos, les questions fréquentes. Ils se retravaillent plutôt que de disparaître.\n\nLe reste peut changer : le design, la structure, la vitesse, la lisibilité sur téléphone.\n\nAvant toute refonte, demandez à votre prestataire comment il gère ces trois points. Nous compris.\n\nUne refonte en vue ? Écrivez-nous, on commence par ce qu'il faut garder.\n\n#Refonte #SiteWeb",
+      "assets": [
+        {
+          "document": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L16-carrousel.pdf",
+            "title": "Refaire son site sans perdre ce qui marche",
+            "thumbnailUrl": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L16-1.png"
+          }
+        }
+      ]
+    },
+    {
+      "post": "L17",
+      "dueAt": "2027-01-15T16:00:00+01:00",
+      "text": "Vous avez demandé deux devis pour un site, et l'un coûte trois fois plus que l'autre ? Ce n'est pas forcément anormal. Les deux ne décrivent sans doute pas le même travail.\n\nAvant de comparer les prix, comparez ce qui est inclus :\n\n1. Le nombre de pages, et qui écrit les textes.\n2. Le design : un modèle adapté, ou une création pour vous.\n3. Les fonctionnalités : formulaire, réservation, commande, paiement.\n4. Le nom de domaine et l'hébergement : inclus ? À votre nom ? Pour combien de temps ?\n5. Ce qui se passe après la mise en ligne : modifications, mises à jour, suivi.\n6. Le mode de paiement : une fois, ou un abonnement sur plusieurs années.\n\nUn devis clair répond à toutes ces questions. S'il en manque, demandez.\n\nVous comparez des devis en ce moment ? Demandez-nous le nôtre, vous pourrez le comparer point par point.\n\n#Devis #CreationSiteWeb",
+      "assets": [
+        {
+          "document": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L17-carrousel.pdf",
+            "title": "Deux devis, du simple au triple",
+            "thumbnailUrl": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L17-1.png"
+          }
+        }
+      ]
+    },
+    {
+      "post": "L18",
+      "dueAt": "2027-01-18T16:00:00+01:00",
+      "text": "Le jour où vous lancez votre site, tout ira plus vite si ces éléments sont prêts.\n\nL'essentiel :\n• votre logo, dans la meilleure qualité possible ;\n• vos coordonnées, vos horaires et votre zone d'intervention ;\n• une présentation de votre activité, même en quelques lignes ;\n• vos photos (nos conseils sont dans un post précédent) ;\n• les questions que vos clients vous posent le plus souvent.\n\nUtile aussi :\n• deux ou trois sites que vous aimez, et ce qui vous y plaît ;\n• vos accès actuels : nom de domaine, fiche Google, réseaux sociaux.\n\nPas besoin que tout soit parfait : l'important, c'est d'avoir la matière.\n\nEnregistrez la liste. Et quand vous l'avez cochée, écrivez-nous.\n\n#ProjetWeb #Entrepreneurs",
+      "assets": [
+        {
+          "image": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L18.png",
+            "metadata": {
+              "altText": "Préparer son site : liste à cocher des éléments à rassembler avant de commencer."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "post": "L19",
+      "dueAt": "2027-01-20T16:00:00+01:00",
+      "text": "Avant de choisir qui fera votre site, posez ces cinq questions. Les réponses en disent long sur la suite.\n\n1. Qui sera mon interlocuteur, du début à la fin ?\n2. Pourrai-je voir le site et demander des modifications avant la mise en ligne ?\n3. Si je change de prestataire un jour, le site et le nom de domaine restent-ils à moi ?\n4. Quand le site sera-t-il en ligne : une date précise, ou « dès que possible » ?\n5. Qui s'occupe des petites modifications ensuite, et à quel prix ?\n\nVoici nos réponses, pour que vous puissiez comparer : un seul interlocuteur, un site de démonstration à tester sur votre téléphone, le site et le domaine à votre nom, un calendrier fixé ensemble, et une maintenance si vous la souhaitez.\n\nPosez-nous ces questions. Écrivez-nous en message privé.\n\n#ChoisirSonPrestataire #SiteWeb",
+      "assets": [
+        {
+          "document": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L19-carrousel.pdf",
+            "title": "5 questions à poser avant de choisir",
+            "thumbnailUrl": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L19-1.png"
+          }
+        }
+      ]
+    },
+    {
+      "post": "L20",
+      "dueAt": "2027-01-22T16:00:00+01:00",
+      "text": "Vous hésitez à nous contacter parce que vous ne savez pas quoi dire ? Voici exactement ce qu'on vous demandera au premier rendez-vous.\n\n1. Qui sont vos clients, et comment vous trouvent-ils aujourd'hui ?\n2. Que doit faire un visiteur sur votre site : appeler, réserver, commander, venir ?\n3. Qu'est-ce qui vous gêne dans votre présence en ligne actuelle ?\n4. Pour quand en avez-vous besoin ?\n\nPas besoin de connaître le vocabulaire du web. Vous parlez de votre métier, on traduit.\n\nAprès ce rendez-vous, vous recevez un devis clair. Vous décidez ensuite, sans pression.\n\nÉcrivez-nous en message privé pour fixer ce premier échange.\n\n#PremierRendezVous #SiteWeb",
+      "assets": [
+        {
+          "document": {
+            "url": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L20-carrousel.pdf",
+            "title": "Ce qu'on vous demandera au premier rendez-vous",
+            "thumbnailUrl": "https://raw.githubusercontent.com/JLWars/siteo-media/main/linkedin/serie-20/SITEO-L20-1.png"
+          }
+        }
+      ]
+    }
+  ]
+}
